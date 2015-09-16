@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:59.023243
+#+DATE: 2015-08-30 20:42:02.305302
 #+TITLE: 根本說一切有部毘奈耶破僧事
 #+PROPERTY: CBETA_ID T24n1450
 #+PROPERTY: ID KR6k0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1450
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0031_T_000-0099a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6k0031_T_008-0137b> ¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6k0031_T_008-0137b> ¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《根本說一切有部毘奈耶破僧事》¶
+《根本說一切有部毘奈耶破僧事》¶
 卷第八¶
 ¶
 大唐三藏法師義淨奉　制譯¶
@@ -140,7 +139,7 @@
 為佛。彼復問曰。何名僧伽。主復答言。有善男¶
 子。從剎利種以正信故。歸佛出家。剃除鬚髮¶
 被著法衣。從家趣於非家。名為僧伽。亦有善¶
-男子。從婆羅門種族。從薜舍種族。從戍達羅¶
+男子。從婆羅門種族。從薜舍種族。從戌達羅¶
 種族。以信心故。剃除鬚髮被著袈裟。從家趣¶
 於非家。出家修道。名為僧伽。我請彼佛及僧¶
 伽眾。明日於此家中以食供養。復問長者。彼¶

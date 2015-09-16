@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:59.373182
+#+DATE: 2015-08-30 20:42:02.633679
 #+TITLE: 根本說一切有部毘奈耶破僧事
 #+PROPERTY: CBETA_ID T24n1450
 #+PROPERTY: ID KR6k0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1450
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0031_T_000-0099a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0031_T_019-0195c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《根本說一切有部毘奈耶破僧事》¶
+《根本說一切有部毘奈耶破僧事》¶
 卷第十九¶
 ¶
 大唐三藏法師義淨奉　制譯¶
@@ -36,8 +35,7 @@
 母遙見。相師占曰。此持魚人者。必當殺我¶
 王自住王位。其語遞相告言。轉轉乃至王¶
 所。王聞此語告諸群臣。乃可速即捉取漁¶
-師子。莫令逃逸。其語轉轉漁師子聞已即¶
-東走而避乃入一老婆家其老婆見已隱藏深¶
+師子。莫令逃逸。其語轉轉漁師子聞已即東走而避乃入一老婆家其老婆見已隱藏深¶
 處。以大黃塗身。色如死人形。人輿將往深¶
 摩舍那之所。安著林所即起而走。近有一人。¶
 於林中採取花菓。遙見此人從死人中忽起而¶

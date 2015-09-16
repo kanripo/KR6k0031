@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:59.304920
+#+DATE: 2015-08-30 20:42:02.564984
 #+TITLE: 根本說一切有部毘奈耶破僧事
 #+PROPERTY: CBETA_ID T24n1450
 #+PROPERTY: ID KR6k0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1450
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0031_T_000-0099a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0031_T_017-0185c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 《根本說一切有部毘奈耶破僧事》¶
+《根本說一切有部毘奈耶破僧事》¶
 卷第十七¶
 ¶
 大唐三藏法師義淨奉　制譯¶
@@ -225,7 +224,7 @@
 
 佛告苾芻。若作黑業者當得黑報。若作白業¶
 者還得白報。諸雜業者還復如此。汝等苾芻。¶
-如雜黑業者。汝不應作。當作白業。如未生怨。¶
+如雜黑業者。汝不應作。常作白業。如未生怨。¶
 為彼惡友提婆達多故。於父王頻毘娑羅所。¶
 起大惡逆。擲矟打著手指。舉國人民共為恥¶
 笑談論。如此惡者為友。未生怨王在胎中時。¶
