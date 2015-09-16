@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:58.941875
+#+DATE: 2015-08-30 20:42:03.206476
 #+TITLE: 根本說一切有部毘奈耶破僧事
 #+PROPERTY: CBETA_ID T24n1450
 #+PROPERTY: ID KR6k0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1450
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0031_T_000-0099a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0031_T_005-0120c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《根本說一切有部毘奈耶破僧事》¶
+《根本說一切有部毘奈耶破僧事》¶
 卷第五¶
 ¶
 大唐三藏法師義淨奉　制譯¶
@@ -249,8 +248,7 @@
 污辱。諸釋種等已為殺戮。是時菩薩。有三種¶
 罪不善尋思。生一者愛欲尋。二者殺害尋。¶
 三者毀損尋。於耶輸陀羅喬比迦彌迦遮所。¶
-生愛欲尋。於提婆達多所。生殺害尋。於隨¶
-從提婆達多諸釋種等。生毀損尋。生此尋已¶
+生愛欲尋。於提婆達多所。生殺害尋。於隨從提婆達多諸釋種等。生毀損尋。生此尋已¶
 便覺察曰。我今何故。生此三種罪不善尋。又¶
 便觀察。知是魔王來此惱我令我散亂。¶
 

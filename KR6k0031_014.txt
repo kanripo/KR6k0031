@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:59.211606
+#+DATE: 2015-08-30 20:42:03.475208
 #+TITLE: 根本說一切有部毘奈耶破僧事
 #+PROPERTY: CBETA_ID T24n1450
 #+PROPERTY: ID KR6k0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1450
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0031_T_000-0099a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0031_T_014-0169c> ¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《根本說一切有部毘奈耶破僧事》¶
+《根本說一切有部毘奈耶破僧事》¶
 卷第十四¶
 ¶
 大唐三藏法師義淨奉　詔譯¶
@@ -292,8 +291,7 @@
 有疑詣世尊所。頂禮佛足白世尊曰。提婆達¶
 多。於十力迦攝無恩故。所有神通皆悉退散。¶
 佛告諸苾芻。其提婆達多。非是今時無恩為¶
-此失却神通。亦是往昔無恩之語。失却神¶
-通。所學之法皆悉退散。汝等諦聽。佛告諸苾¶
+此失却神通。亦是往昔無恩之語。失却神通。所學之法皆悉退散。汝等諦聽。佛告諸苾¶
 芻。此波羅痆斯城。昔有國王名曰梵授。時彼¶
 城中有一旃茶羅善明健陀羅呪禁之法。承¶
 彼呪力飛騰虛空。詣香山中。採得非時奇妙¶
